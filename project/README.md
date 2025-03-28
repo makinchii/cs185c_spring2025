@@ -2,11 +2,10 @@
 
 In this project I will investigate the World Heritage Site Ha Long Bay, located in Vietnam. Specifically, I will investigate the following question:
 
-*How do the karst formations of Ha Long Bay influence local tidal mixing and water renewal times?*
+*How might the oceanic conditions surrounding Ha Long Bay affect the karsts physically over time?*
 
-To explore this question, I will run a model for one year in the Ha Long Bay region spanning between Ca Hat Island to Bai Tu Long Bay with two variations, 
-one that includes complex topography and data from the real life Ha Long Bay, and an idealized version with the karst formations that make up Ha Long Bay absent.
+The objectives of this experiment are to explore and quantify how tidal currents, waves, and seawater chemistry erode karst formations in Ha Long Bay. Additionally, I would like to model long-term karst retreat rates under climate change and
+identify mixing spots where dissolution is maximized. My model will focus on the region of Ha Long Bay located between Ca Bat Island and Bai Tu Long Bay, at 20.8°–21.2°N, 106.7°–107.3°E and will be ran for a decade. To show the role that the ocean plays in eroding the karst formations, two models will be run. One model contains tidal forces while the other doesn't. The model will be ran starting from January, 2004. I think that the model without tidal forces will have result in lower mixed-layer depths and lower sediment transport rates due to the decreased erosion activity.
 
-I will initialize my model in 2012 as an arbitrary start date using the [fill in when final source of data is decided upon]. 
-To analyze and demonstrate the analysis and results, I will create a time series showcasing the differences in todal mixing and renewal times in the region, highlighting the impact that the topography has on the local area.
+To initialize the model, I will utilize data from the ECCO Version 5 in January of 2004, which will also be used to to construct the boundary and external forcing conditions. To visualize the results, two time series of each model will be created to allow for analysis through time. Additionally, several frames of graphs will be made into a movie, thus allowing for a visual comparison as to how oceanic conditions have an effect on the karst formations at Ha Long Bay.
 
